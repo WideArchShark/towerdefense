@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c2bf9ce7159e6449b563d62e56fbd3, type: 3}
+  m_Name: Tree Cell 4
+  m_EditorClassIdentifier: 
+  cellType: 1
+  cellPrefab: {fileID: 4761417548665133210, guid: 0e95bf03ebb64f944827f9027ddf59cb, type: 3}
+  yRotation: 0
